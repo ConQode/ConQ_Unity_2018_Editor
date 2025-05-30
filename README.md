@@ -10,5 +10,5 @@ A script that multiplies the position values of selected objects by 9. Useful wh
 ## Create Prefab From Selection:
 A script that creates prefabs from all selected objects in the hierarchy. Make sure the objects are unpacked and the target folder is selected in the project window. [CreatePrefabFromSelection](https://github.com/ConQode/ConQ_Unity_2018_Editor/blob/main/Assets/Editor/CreatePrefabFromSelection.cs)
 
-## ScaleChildren:
-A script to scale up the first generation of children of an selected object, by the factor 9. [ScaleChildren](https://github.com/ConQode/ConQ_Unity_2018_Editor/blob/main/Assets/Editor/ScaleChildren.cs)
+## Scale Children Of Selected:
+A script to scale up the first generation of children of an selected object, by the factor 9. [ScaleChildrenOfSelected](https://github.com/ConQode/ConQ_Unity_2018_Editor/blob/main/Assets/Editor/ScaleChildren.cs)
