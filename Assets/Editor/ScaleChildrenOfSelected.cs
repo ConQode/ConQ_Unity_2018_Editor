@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-public class ScaleChildren : MonoBehaviour
+public class ScaleChildrenOfSelected : MonoBehaviour
 {
     [MenuItem("ConQ/Scale Children %g")]
     static void ScaleChildren()
